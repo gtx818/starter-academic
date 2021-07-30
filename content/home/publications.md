@@ -2,6 +2,7 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
+active: true
 
 # This file represents a page section.
 headless: true
@@ -9,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
@@ -22,12 +23,12 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
   # Filter on criteria
-  filters:
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
-    exclude_featured: true
+  # filters:
+  #   tag: 'example'
+  #   category: '1112'
+  #   publication_type: 'conference'
+  #   author: 'GaoTianxiao'
+  #   exclude_featured: true
 design:
   # Choose a view for the listings:
   #   1 = List
@@ -37,6 +38,6 @@ design:
   view: 4
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+{{% /callout %}} -->
