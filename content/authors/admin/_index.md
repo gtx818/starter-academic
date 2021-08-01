@@ -21,8 +21,8 @@ bio:
 interests:
 - Deep Learning on Depth Estimation and Semantic Segmentation
 - Semantic SLAM, Dynamic SLAM
-- 3D Reconstruction
-- Obstacle Avoidance and Route Planning
+- Robotics
+- Obstacle Avoidance and Path Planning
 
 # Education to show in About widget
 education:
