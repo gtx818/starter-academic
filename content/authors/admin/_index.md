@@ -6,7 +6,7 @@ title: Tianxiao Gao
 superuser: true
 
 # Role/position/tagline
-role: Mphil of Computer Vision
+role: Master degree candidate of Control Science and Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
