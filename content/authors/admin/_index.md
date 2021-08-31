@@ -6,7 +6,7 @@ title: Tianxiao Gao
 superuser: true
 
 # Role/position/tagline
-role: Mphil of Computer Vision
+role: Master degree candidate of Control Science and Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -21,8 +21,13 @@ bio:
 interests:
 - Deep Learning on Depth Estimation and Semantic Segmentation
 - Semantic SLAM, Dynamic SLAM
+<<<<<<< HEAD
 - 3D Reconstruction
 - Path Planning
+=======
+- Robotics
+- Obstacle Avoidance and Path Planning
+>>>>>>> 492239034871ad0adb4ac17b471d84d44308db1f
 
 # Education to show in About widget
 education:
